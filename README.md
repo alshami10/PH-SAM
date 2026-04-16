@@ -1,4 +1,4 @@
-# PH-SAM
+# Persistent Homology (PH-SAM)
 
 ## Project Sponsor
 This project is sponsored by **NSF DART**  
